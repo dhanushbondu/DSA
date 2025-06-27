@@ -1,0 +1,3 @@
+class NonFibonacii{
+	public s
+}
